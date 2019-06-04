@@ -10,8 +10,8 @@
 	# for hub command
 	pr = pull-request
 [user]
-	name = xsota
-	email = git@xsota.com
+	name = akai1256
+	email = happy2.cry2@gmail.com
 [core]
 	editor = emacs -nw
 	excludesfile = ~/.gitignore_global
