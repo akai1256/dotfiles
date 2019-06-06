@@ -13,7 +13,6 @@
 	name = akai1256
 	email = happy2.cry2@gmail.com
 [core]
-	editor = emacs -nw
 	excludesfile = ~/.gitignore_global
 [push]
 	default = current
